@@ -1,0 +1,28 @@
+.kidflash {
+    display:none;
+    color:red;
+}
+
+.artemis {
+    display:none;
+    color:white;
+}
+
+.aqualad {
+    display:none;
+    color:white;      
+}
+
+.robin {
+    display:none;
+    color:white;
+}
+
+img{
+    height:200px;
+    width:200px;
+}
+
+body{
+    text-align:center;
+}
